@@ -1,49 +1,39 @@
-![logo](https://github.com/Sarita-16/Sarita-16/blob/main/banner.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Tania Mollah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tonmoy Malik</h1>
+<h3 align="center">An optimistic MEAN Stack Developer, with an intense sense of design and implementation of UI and APIs.</h3>
 
 <br>
 <br>
 
-<img align="right" alt="coding" width="300" height="270" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
+<img align="right" alt="coding" width="300" height="270" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teeaimm&label=Profile%20views&color=0e75b6&style=flat" alt="teeaimm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tnmy1991&label=Profile%20views&color=0e75b6&style=flat" alt="Tnmy1991" /> </p>
 
 
-- 🔭 I’m currently working on **React-Series**
+- 🔭 I’m currently working on **Angular-Nx-Cypress**
 
-- 🌱 I’m currently learning **React JS in-depth**
+- 🌱 I’m currently learning **AWS CDK & Serverless Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TeeAimm](https://github.com/TeeAimm)
+- 👨‍💻 All of my projects are available at [https://github.com/Tnmy1991](https://github.com/Tnmy1991)
 
-- 💬 Ask me about **React JS, Angular, Javascript, Typescript, HTML5, CSS, SCSS, Tailwind CSS, Bootstrap, GIT**
+- 💬 Ask me about **Angular, NodeJs, MySQL, MongoDB, Redux, Jest, Cypress, Nx, Javascript, Typescript, HTML5, CSS, SCSS, SASS, Bootstrap, GIT**
 
-- 📫 How to reach me **taniamollah15@gmail.com**
+- 📫 How to reach me **tonmoy.malik@gmail.com**
 
 <br>
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tania-khatun-mollah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tania-khatun-mollah" height="30" width="40" /></a>
-  <a href="https://github.com/TeeAimm"><img src="https://github-profile-trophy.vercel.app/?username=teeaimm" alt="teeaimm" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tonmoy-malik/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Tonmoy Malik" width="60" /></a>
+  <a href="https://github.com/Tnmy1991"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Tnmy1991" width="60" /></a>
 </p>
 
 <br>
 
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a ref="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  
 </p>
 
 <br>
@@ -51,10 +41,10 @@
 <br>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teeaimm&show_icons=true&locale=en&layout=compact" alt="teeaimm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tnmy1991&show_icons=true&locale=en&layout=compact" alt="Tnmy1991" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teeaimm&show_icons=true&locale=en" alt="teeaimm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tnmy1991&show_icons=true&locale=en" alt="Tnmy1991" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teeaimm&" alt="teeaimm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tnmy1991&" alt="Tnmy1991" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teeaimm" alt="teeaimm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tnmy1991" alt="Tnmy1991" /></a> </p>
